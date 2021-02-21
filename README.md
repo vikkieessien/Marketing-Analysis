@@ -24,5 +24,5 @@
 #### Part 3 - Supervised learning
 * I tested the validating of my model using supervised learning and interesting algorithms using  Response: 1 : Customer that responded to the marketing campaigns, 0 : Customer that did not response to the campaign.
 
-#### Kindly open the notebook from Part 1 to 3 according.
+#### Kindly open the notebook from Part 1 to 3 accordingly.
 
