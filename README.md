@@ -19,7 +19,7 @@
 * I did data exploratory on the dataset to identify the problems responsible for these ineffective campaigns.
 
 #### Part 2 - Unsupervised learning
-* After the data exploratory analysis, I went further to do customer segementation with clustering using unsupervised learning.
+* After the data exploratory analysis, I went further to do customer segmentation with clustering using unsupervised learning.
 
 #### Part 3 - Supervised learning
 * I tested the validating of my model using supervised learning and interesting algorithms using  Response: 1 : Customer that responded to the marketing campaigns, 0 : Customer that did not response to the campaign.
